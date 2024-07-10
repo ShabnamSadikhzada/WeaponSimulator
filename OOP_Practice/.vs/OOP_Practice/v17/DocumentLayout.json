@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOP_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA2FC49-3BB7-4947-8F45-B0DA05F07138}|OOP_Practice\\OOP_Practice.csproj|c:\\users\\shabnamjs\\desktop\\lab\\oop_practice\\oop_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA2FC49-3BB7-4947-8F45-B0DA05F07138}|OOP_Practice\\OOP_Practice.csproj|solutionrelative:oop_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA2FC49-3BB7-4947-8F45-B0DA05F07138}|OOP_Practice\\OOP_Practice.csproj|c:\\users\\shabnamjs\\desktop\\lab\\oop_practice\\oop_practice\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA2FC49-3BB7-4947-8F45-B0DA05F07138}|OOP_Practice\\OOP_Practice.csproj|solutionrelative:oop_practice\\models\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOP_Practice\\OOP_Practice\\Models\\Gun.cs",
+              "RelativeDocumentMoniker": "OOP_Practice\\Models\\Gun.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOP_Practice\\OOP_Practice\\Models\\Gun.cs",
+              "RelativeToolTip": "OOP_Practice\\Models\\Gun.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:15:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOP_Practice\\OOP_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\OOP_Practice\\OOP_Practice\\Program.cs",
+              "RelativeToolTip": "OOP_Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:15:33.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
